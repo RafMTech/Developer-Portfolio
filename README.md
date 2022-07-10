@@ -1,2 +1,134 @@
-# Developer-Portfolio
-Web Developer/Email Developer Portfolio
+!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Rafael's Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">Solid State</a></h1>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<div class="inner">
+							<h2>Menu</h2>
+							<ul class="links">
+								<li><a href="index.html">Home</a></li>
+								<li><a href="generic.html">Bio</a></li>
+								<li><a href="menu.html">Menu</a></li>
+								<li><a href="Email.html">Email</a></li>
+								<li><a href="Fandango.html">Fandango</a></li>
+								<li><a href="Progressive Rock History.html">Progressive Rock Hisotry</a></li>
+							</ul>
+							<a href="#" class="close">Close</a>
+						</div>
+					</nav>
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<div class="logo"><span class="icon fa-gem"></span></div>
+							<h2>Rafael's Portfolio</h2>
+							<p>Front-End Developer</p>
+							<p>HTML CSS Javascript Web Developer and Email Developer</p>
+							<p>Adobe WordPress Learning Back-End</p>
+						</div>
+					</section>
+
+				<!-- Wrapper -->
+					<section id="wrapper">
+
+						<!-- One -->
+							<section id="one" class="wrapper spotlight style1">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/Dominican Menu.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Rafael's Menu</h2>
+										<p>Dominican Restaurant Menu</p>
+										<a href="menu.html" class="special">Learn more</a>
+									</div>
+								</div>
+							</section>
+							<!-- Two -->
+							<section id="two" class="wrapper alt spotlight style2">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/HTML Email.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">HTML EMAIL</h2>
+										<p>Email Newsletter</p>
+										<a href="Email.html" class="special">Learn more</a>
+									</div>
+								</div>
+							</section>
+							<!--three-->
+							<section id="three" class="wrapper alt spotlight style3">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/Music Blog.jpg" alt=""/></a>
+									<div class="content">
+										<h2 class="major">Informational</h2>
+										<p>Progressive Rock History</p>
+										<a href="Progressive Rock History.html" class="special">Learn more</a>
+									</div>
+								</div>
+							</section>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="inner">
+							<h2 class="major">Get in touch</h2>
+							
+							<form method="post" action="#">
+								<div class="fields">
+									<div class="field">
+										<label for="name">Name</label>
+										<input type="text" name="name" id="name" />
+									</div>
+									<div class="field">
+										<label for="email">Email</label>
+										<input type="email" name="email" id="email" />
+									</div>
+									<div class="field">
+										<label for="message">Message</label>
+										<textarea name="message" id="message" rows="4"></textarea>
+									</div>
+								</div>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</form>
+							<ul class="contact">
+								<li class="icon solid fa-home">Ruskin, Florida</li>
+								<li class="icon solid fa-envelope"><a href="#">RafaelMorilloEnergy@gmail.com</a></li>
+								<li class="icon brands fa-github"><a href="#">https://github.com/RafMTech/RafMTech</a></li>
+								<li class="icon brands fa-linkedin"><a href="#">https://www.linkedin.com/in/rafael-morillo-1792b74b/</a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Untitled Inc. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
